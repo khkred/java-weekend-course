@@ -1,0 +1,24 @@
+12 - May:
+
+Assignment3.java: Write a program to find out if a number is prime or not
+
+Assignemnt4.java : Write a program to find out all the factors of a number 
+
+eg: 10: 1, 2, 5
+
+Assignment5.java: Write a program to print multiplication table
+
+eg: you ask me for a number
+my number : 12
+
+output:
+12
+24
+36
+48
+60
+72
+84
+96
+108
+120
