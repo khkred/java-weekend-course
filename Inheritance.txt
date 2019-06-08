@@ -1,0 +1,12 @@
+1. Inheritance (Animals , Dog)
+Animals(name,brain,body,weight)
+eat()
+move(speed)
+
+Dog(eyes,legs,tail,breed)
+chew()
+walk()
+run()
+
+Next Lesson:
+Reference vs Object Vs Instance Vs Class
