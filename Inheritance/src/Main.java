@@ -31,7 +31,9 @@ public class Main {
 
         Animals g1 = new GoldenRetriever("Hitman",24,3);
 
-        g1.eat();
+//        g1.eat();
+
+        goldenRetriever.eat();
 
 
 
