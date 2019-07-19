@@ -1,79 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="40278eec-a80c-4323-942a-60b625012387" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SampleClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assignments.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Classes-definitions.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ClassesExamples/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ClassesExamples/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ClassesExamples/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ClassesExamples/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ClassesExamples/ClassesExamples.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ClassesExamples/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ClassesExamples/src/Student.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Conditional.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Constructors/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Constructors/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Constructors/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Constructors/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Constructors/Constructors.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Constructors/src/Box.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Constructors/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DataTypes.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EvenOrOdd.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Getter and Setter/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Getter and Setter/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Getter and Setter/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Getter and Setter/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Getter and Setter/Getter and Setter.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Getter and Setter/src/BankAccount.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Getter and Setter/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HelloWorld.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HelloWorld/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HelloWorld/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HelloWorld/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HelloWorld/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HelloWorld/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HelloWorld/HelloWorld.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HelloWorld/src/Hello.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Inheritance.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Inheritance/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Inheritance/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Inheritance/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Inheritance/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Inheritance/Inheritance.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Inheritance/src/Animals.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Inheritance/src/Dogs.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Inheritance/src/GoldenRetriever.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Inheritance/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Loops.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../NewCars.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../NewClasses.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Operators.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Overloading/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Overloading/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Overloading/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Overloading/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Overloading/Overloading.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Overloading/src/FindArea.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Overloading/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Public and Private/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Public and Private/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Public and Private/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Public and Private/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Public and Private/Public and Private.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Public and Private/src/Coffee.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Public and Private/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Switch Statements/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Switch Statements/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Switch Statements/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Switch Statements/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Switch Statements/Switch Statements.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Switch Statements/src/SwitchExamples.java" beforeDir="false" />
-    </list>
+    <list default="true" id="40278eec-a80c-4323-942a-60b625012387" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -90,7 +18,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="418">
@@ -99,11 +27,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/SampleClass.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="418">
-              <caret line="22" column="54" selection-start-line="22" selection-start-column="54" selection-end-line="22" selection-end-column="54" />
+            <state relative-caret-position="361">
+              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
             </state>
           </provider>
         </entry>
@@ -123,8 +51,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/SampleClass.java" />
         <option value="$PROJECT_DIR$/src/Main.java" />
+        <option value="$PROJECT_DIR$/src/SampleClass.java" />
       </list>
     </option>
   </component>
@@ -164,6 +92,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -223,10 +152,10 @@
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" />
+      <window_info anchor="bottom" id="Messages" weight="0.32960895" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32960895" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32960895" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -241,18 +170,26 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
+    <MESSAGE value="public , private and protected" />
+    <option name="LAST_COMMIT_MESSAGE" value="public , private and protected" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/SampleClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="22" column="54" selection-start-line="22" selection-start-column="54" selection-end-line="22" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="418">
           <caret line="22" column="47" selection-start-line="22" selection-start-column="47" selection-end-line="22" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SampleClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
         </state>
       </provider>
     </entry>
